@@ -46,6 +46,7 @@ Route::post('/logout', function () {
     request()->session()->regenerateToken();
     return redirect('/login'); // Arahkan kembali ke halaman login
 })->name('logout');
+
 Route::middleware(['auth'])->group(function () {
     Route::get('/admin/dashboard', [AdminController::class, 'dashboard'])->name('admin.dashboard');
     // Tambahkan route lain khusus untuk admin di sini

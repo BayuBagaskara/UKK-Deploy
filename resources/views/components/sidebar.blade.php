@@ -3,13 +3,12 @@
         Categories
     </div>
     <ul class="list-group list-group-flush">
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Electronics</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Fashion</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Books</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Home Appliances</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Sports</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Toys</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Groceries</a></li>
-        <li class="list-group-item"><a href="#" class="text-decoration-none">Beauty</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🍜 Instant Noodles</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🍫 Snacks & Chocolates</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🥤 Soft Drinks</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">☕ Coffee & Tea</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🥛 Dairy Products</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🍞 Bread & Bakery</a></li>
+        <li class="list-group-item"><a href="#" class="text-decoration-none">🍎 Fruits & Vegetables</a></li>
     </ul>
 </div>
